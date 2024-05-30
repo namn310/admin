@@ -12,6 +12,9 @@
 :root {
   scroll-behavior: smooth;
 }
+#addnhanvien{
+  color:white;
+}
 .main-content-left{
   flex:1;
 }
